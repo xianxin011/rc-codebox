@@ -1,11 +1,3 @@
-/**
- * @file: 验证码输入框
- * @author: huxiaoshuai
- * @Date: 2021-12-20 17:46:36
- * @LastEditors: huxiaoshuai
- * @LastEditTime: 2022-01-12 19:51:57
- */
-
 import React, { useRef, useEffect } from 'react';
 import './index.less';
 

@@ -1,10 +1,3 @@
-/**
- * @file: description
- * @author: huxiaoshuai
- * @Date: 2021-12-20 17:35:05
- * @LastEditors: huxiaoshuai
- * @LastEditTime: 2021-12-20 21:45:45
- */
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
